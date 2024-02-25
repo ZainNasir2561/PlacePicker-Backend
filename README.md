@@ -1,18 +1,18 @@
 # PlacePicker-Backend
 
 Place Picker Project
-Welcome to the Place Picker project repository! This project represents a significant milestone in my journey as a developer, particularly in exploring and implementing backend components using Node.js. It's a testament to my growing understanding of Node.js practices, focusing on data fetching, updating, and handling performance and error management efficiently.
+Welcome to the Place Picker project repository! This project represents a significant milestone in my development journey, particularly in exploring and implementing backend components using Node.js. It's a testament to my growing understanding of Node.js practices, focusing on data fetching, updating, and efficiently handling performance and error management.
 
 # Project Overview
 The Place Picker project is designed to showcase my ability to develop and manage backend components. It involves fetching and updating data in a Node.js environment, demonstrating my grasp of asynchronous programming, error handling, and performance optimization techniques.
 
 # Key Features
-Robust Error Handling: Implemented centralized error handling mechanisms to ensure consistent error response and maintain code quality and reliability.
-Environment Variables: Utilized environment variables for configuration settings and sensitive information, enhancing security and flexibility.
-Middleware Optimization: Carefully placed middleware to avoid performance bottlenecks and ensure efficient data processing.
-Data Handling: Employed streams for handling large datasets, optimizing data processing and memory usage.
-Caching: Integrated caching with Redis to reduce database load and improve response times, showcasing my attention to performance optimization.
-Database Optimization: Ensured database queries are optimized, utilizing indexes appropriately and avoiding N+1 queries for enhanced performance.
+- Robust Error Handling: Implemented centralized error handling mechanisms to ensure consistent error response and maintain code quality and reliability.
+- Environment Variables: Utilized environment variables for configuration settings and sensitive information, enhancing security and flexibility.
+- Middleware Optimization: Carefully placed middleware to avoid performance bottlenecks and ensure efficient data processing.
+- Data Handling: Employed streams for handling large datasets, optimizing data processing and memory usage.
+- Caching: Integrated caching with Redis to reduce database load and improve response times, showcasing my attention to performance optimization.
+- Database Optimization: Ensured database queries were optimized, utilizing indexes appropriately and avoiding N+1 queries for enhanced performance.
 
 # Technical Highlights
 Asynchronous Programming: Leveraged promises and async/await for better flow control in asynchronous operations.
@@ -28,7 +28,7 @@ Feel free to explore the code, contribute, or reach out if you have any question
 
 Make sure you install NodeJS!
 
-Simply run, 
+Run, 
 
 npm install
 
